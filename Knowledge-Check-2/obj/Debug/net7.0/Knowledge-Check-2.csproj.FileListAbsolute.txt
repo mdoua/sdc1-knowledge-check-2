@@ -1,0 +1,14 @@
+/Users/mamia2/Desktop/Knowledge-Check-2-for-Software-Course-1/Knowledge-Check-2/obj/Debug/net7.0/Knowledge-Check-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mamia2/Desktop/Knowledge-Check-2-for-Software-Course-1/Knowledge-Check-2/obj/Debug/net7.0/Knowledge-Check-2.AssemblyInfoInputs.cache
+/Users/mamia2/Desktop/Knowledge-Check-2-for-Software-Course-1/Knowledge-Check-2/obj/Debug/net7.0/Knowledge-Check-2.AssemblyInfo.cs
+/Users/mamia2/Desktop/Knowledge-Check-2-for-Software-Course-1/Knowledge-Check-2/obj/Debug/net7.0/Knowledge-Check-2.csproj.CoreCompileInputs.cache
+/Users/mamia2/Desktop/Knowledge-Check-2-for-Software-Course-1/Knowledge-Check-2/bin/Debug/net7.0/Knowledge-Check-2
+/Users/mamia2/Desktop/Knowledge-Check-2-for-Software-Course-1/Knowledge-Check-2/bin/Debug/net7.0/Knowledge-Check-2.deps.json
+/Users/mamia2/Desktop/Knowledge-Check-2-for-Software-Course-1/Knowledge-Check-2/bin/Debug/net7.0/Knowledge-Check-2.runtimeconfig.json
+/Users/mamia2/Desktop/Knowledge-Check-2-for-Software-Course-1/Knowledge-Check-2/bin/Debug/net7.0/Knowledge-Check-2.dll
+/Users/mamia2/Desktop/Knowledge-Check-2-for-Software-Course-1/Knowledge-Check-2/bin/Debug/net7.0/Knowledge-Check-2.pdb
+/Users/mamia2/Desktop/Knowledge-Check-2-for-Software-Course-1/Knowledge-Check-2/obj/Debug/net7.0/Knowledge-Check-2.dll
+/Users/mamia2/Desktop/Knowledge-Check-2-for-Software-Course-1/Knowledge-Check-2/obj/Debug/net7.0/refint/Knowledge-Check-2.dll
+/Users/mamia2/Desktop/Knowledge-Check-2-for-Software-Course-1/Knowledge-Check-2/obj/Debug/net7.0/Knowledge-Check-2.pdb
+/Users/mamia2/Desktop/Knowledge-Check-2-for-Software-Course-1/Knowledge-Check-2/obj/Debug/net7.0/Knowledge-Check-2.genruntimeconfig.cache
+/Users/mamia2/Desktop/Knowledge-Check-2-for-Software-Course-1/Knowledge-Check-2/obj/Debug/net7.0/ref/Knowledge-Check-2.dll
